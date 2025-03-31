@@ -61,7 +61,7 @@ Feel free to **fork** this repo, submit **pull requests**, or **raise issues**.
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or email me at **your@email.com**.
+For any questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/glenn-kipanga-0330ba258/) or email me at datascientistglenn20@gmail.com.
 
 Happy Coding!
 
